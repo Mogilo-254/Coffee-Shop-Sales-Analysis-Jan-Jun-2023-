@@ -4,7 +4,7 @@
 
 🔗 **Live Dashboard:** [View on Power BI](https://app.powerbi.com/groups/f74d5ecc-0602-411b-af76-6287653eacad/dashboards/cd8dabad-04cc-41fd-abac-41288635a3e6?ctid=6b50791c-a474-4b8d-899a-9049d80d3eac&pbi_source=linkShare)  
 
-
+![Dashboard](https://github.com/Mogilo-254/Coffee-Shop-Sales-Analysis-Jan-Jun-2023-/blob/main/Coffee%20Dashboard.png)
 
 ---
 
